@@ -1,2 +1,2 @@
-# takotin
-website
+# TAKOTIN
+personal website
